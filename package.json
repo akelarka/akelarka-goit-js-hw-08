@@ -5,7 +5,7 @@
   "homepage": "https://akelarka.github.io/akelarka-goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url https://github.com/akelarka/akelarka-goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /akelarka-goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
