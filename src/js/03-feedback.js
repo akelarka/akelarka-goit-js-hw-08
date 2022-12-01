@@ -41,5 +41,3 @@ const submit = evt => {
 };
 form.addEventListener('input', throttle(formInput, 500));
 form.addEventListener('submit', submit);
-
-//
