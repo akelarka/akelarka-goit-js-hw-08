@@ -6,8 +6,8 @@ const form = document.querySelector('form');
 const email = document.querySelector('input');
 const message = document.querySelector('textArea');
 
-email.setAttribute('required', '');
-message.setAttribute('required', '');
+email.setAttribute('required', true);
+message.setAttribute('required', true);
 
 let feedbackForm = {
   email: '',
